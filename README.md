@@ -45,12 +45,7 @@ Feel free to reach out. I'm always open to connecting with fellow developers, de
 ---
 
 ### 📊 My GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nesqyk&show_icons=true&theme=radical&rank_icon=github" alt="Nesqyk's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nesqyk&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nesqyk&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nesqyk&show_icons=true&theme=darcula&rank_icon=github" alt="Nesqyk's GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=Nesqyk&theme=darcula" alt="GitHub Streak" />
 </p>
