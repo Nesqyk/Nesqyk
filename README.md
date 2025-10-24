@@ -1,59 +1,56 @@
-```bash
-┌─[Nesqyk@github]─[~]
-└──╼ $ cat profile.md
-```
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-```markdown
-  1 │ # About Me
-  2 │ 
-  3 │ Hey there! 👋 I'm Tyrone Tabornal!
-  4 │ 
-  5 │ I am a community builder and a Campus Organizer for
-  6 │ Google Developer Groups On Campus for CTU, Philippines. Since 2019,
-  7 │ I've been programming, with my forte now lying in UI/UX
-  8 │ and product ownership.
-```
+### Hi there 👋, I'm Tyrone!
 
-```bash
-┌─[Nesqyk@github]─[~]
-└──╼ $ ./stats.sh --show github
-```
+I'm a passionate developer, UI/UX enthusiast, and community builder based in the vibrant tech hub of Cebu, Philippines. 🇵🇭
 
-<details>
-    <summary><code>📊 github_analytics.log</code></summary>
-    
-```
-Loading GitHub statistics...
-[████████████████████████████████] 100%
-```
+---
 
-   ![Jan Leigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nesqyk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+### 👨‍💻 About Me
 
-   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nesqyk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-   
-   ![GitHub Streak](https://streak-stats.demolab.com?user=Nesqyk&theme=dark&hide_border=true&background=0d1117)
-</details>
+-   🏛️ I'm a **Campus Organizer for Google Developer Groups** at Cebu Technological University, helping students connect, learn, and grow.
+-   🚀 My coding journey began in 2019. After a two-year hiatus, I jumped back into the world of tech in 2024, more passionate than ever!
+-   🎨 My primary focus right now is on **UI/UX Design** and **Front-End Development**, creating intuitive and beautiful user experiences.
+-   🌱 I'm currently expanding my skills and would love to learn more **Back-End technologies** to become a full-stack developer.
+-   🧠 My interests lie at the intersection of technology and user-centric design, including **GenAI, LLMs, UX Research, and Startups**.
 
-```bash
-┌─[Nesqyk@github]─[~]
-└──╼ $ ./stats.sh --show wakatime
-```
+---
 
+### 🤝 Community Involvement
 
+I love being part of the local tech ecosystem! You can often find me at meetups and events for amazing communities like:
+-   **AWS User Group Cebu (AWSUG)**
+-   **Google Developer Group Cebu (GDG)**
+-   **DEVCON Cebu**
+-   ...and many more!
 
-<details>
-    <summary><code>⏰ wakatime_tracker.log</code></summary>
-    
-```
-Fetching coding activity data...
-[████████████████████████████████] 100%
-```
+---
 
-   [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nesqyk&theme=dark&hide_border=true&bg_color=0d1117&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</details>
+### 🎯 Current Goals
 
-```bash
-┌─[Nesqyk@github]─[~]
-└──╼ $ exit
-Connection to github.com closed.
-```
+I'm always learning and pushing myself to grow. These are the certifications I'm currently working towards:
+-   **AWS Certified Cloud Practitioner**
+-   **Generative AI Leader**
+
+---
+
+### 📫 Let's Connect!
+
+Feel free to reach out. I'm always open to connecting with fellow developers, designers, and tech enthusiasts!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyrone-tabornal-738984274/)
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nesqyk&show_icons=true&theme=radical&rank_icon=github" alt="Nesqyk's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nesqyk&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Nesqyk&theme=radical" alt="GitHub Streak" />
+</p>
